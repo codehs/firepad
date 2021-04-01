@@ -10,7 +10,8 @@ node_modules
 # generated
 lib/ace-adapter.js
 dist/firepad.zip
-dist/
+# need to include dist when using this repo as node github dependency
+# dist/
 
 *.log
 _site/
